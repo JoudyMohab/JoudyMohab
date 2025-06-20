@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoudyMohab
-- 👀 I’m interested in computer programing
-- 🌱 I’m currently learning in 11th grade
+- 👀 I’m interested in computer programming
+- 🎓 I’m currently a rising senior
 
 
 <!---
